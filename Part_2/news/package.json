@@ -1,0 +1,8 @@
+{
+    "name" : "MyApp",
+    "devDependencies" : {
+        "express" : "~3.5",
+        "ejs" : "",
+        "request" : ""
+    } 
+}
